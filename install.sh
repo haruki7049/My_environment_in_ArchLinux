@@ -1,6 +1,6 @@
 # bash
 # alway needed
-pacman -S networkmanager gvim git cmus tmux
+pacman -S networkmanager gvim git cmus tmux alsa-utils
 
 # desktop environment for sway
 pacman -S sway qt5-wayland qt6-wayland imv mpv
