@@ -9,4 +9,4 @@ pacman -S pavucontrol
 pacman -S sway qt5-wayland qt6-wayland imv mpv
 
 # programming language
-pacman -S python rust ruby dotnet-sdk jdk-openjdk
+pacman -S python rust ruby dotnet-sdk jdk-openjdk ghc
